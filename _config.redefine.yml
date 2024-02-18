@@ -1,0 +1,3 @@
+cdn:
+  enable: true
+  provider: jsdelivr # unpkg, jsdelivr, aliyun
